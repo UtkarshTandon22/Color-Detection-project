@@ -1,0 +1,7 @@
+python color_detection.py -i colorpic.jpg
+
+python color_detection.py -i input2.jpg
+
+python color_detection.py -i input3.jpg
+
+python color_detection.py -i input4.jpg
